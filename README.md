@@ -1,0 +1,2 @@
+# aws-deneme
+ aws denemeleri
